@@ -1,0 +1,1 @@
+.inputs{display:flex;gap:20px}.inputs__label{display:block;font-size:20px;margin-right:20px}.inputs__input{font-size:20px}.Carousel{width:260px;overflow:hidden}.Carousel__list{display:flex;margin:0;padding:0;list-style:none}.Carousel li{flex:0 0 auto;width:130px}.Carousel img{width:100%;height:auto}
